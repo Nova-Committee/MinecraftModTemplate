@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "committee.nova.mods.examplemod.mixin",
+  "minVersion": "0.8",
+  "mixins": [
+  ],
+  "client": [
+    "MixinMinecraft"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
